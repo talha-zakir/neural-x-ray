@@ -7,5 +7,6 @@ grad-cam
 shap
 scikit-image
 scipy
+opencv-python-headless
 
 streamlit
