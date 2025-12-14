@@ -47,6 +47,7 @@ python -m src.compare_robustness
 - `streamlit_app.py`: The "Neural X-Ray" dashboard code.
 
 ## 👨‍💻 Authors
-**Muhammad Talha** | **Zahid Tufail**
+**Muhammad Talha**
 Kyung Hee University (CQILAB)
 AI Reverse Engineering Semester Project
+
