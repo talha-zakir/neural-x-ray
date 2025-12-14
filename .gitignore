@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Data (Optional: keep if you want to upload sample data, exclude if huge)
+# data/
+
+# Results (Optional: usually good to keep for demo, exclude if huge)
+# results/
